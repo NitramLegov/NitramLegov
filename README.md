@@ -7,7 +7,7 @@ In my spare time, I am helping out as one of three active managers of [CoMakingS
 ![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Music%20Taste-Bad!-informational?style=flat&logo=Spotify&logoColor=white&color=2bbc8a)
 
 
 ### Tech Stuff I like
