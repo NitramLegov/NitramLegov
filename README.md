@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi folks, I´m Martin
+I´m a Nerd, a Maker and a Management Consultant.
 
-<!--
-**NitramLegov/NitramLegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my spare time, I am helping out as one of three active managers of [CoMakingSpace](https://github.com/comakingspace/), a community run makerspace in Heidelberg. Go check it out, it´s awesome!
 
-Here are some ideas to get you started:
+### Tech Stuff I like
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Microcontrollers (those tiny little things are poooowerfull)
+* Raspberry Pis (we all do, don´t we?)
+* Python 
+* .Net
+* [homeassistant](https://github.com/home-assistant/core) (Core install running on podman, I dislike HassOS)
+* Rootless(!) containers
+
+### Stuff I dislike
+
+* Fany open-source projects not being maintained anymore (😢)
+* Days having only 24 hours (Dear universe, when am I supposed to finish my projects?)
+
+### Stuff you should check out
+
+* Podman
+* [homeassistant](https://github.com/home-assistant/core) 
+* [Awesome-Lists](https://github.com/sindresorhus/awesome)
+
+If you want to learn more about my projects, check out [my profile](https://wiki.comakingspace.de/User:NitramLegov) in our wiki.
